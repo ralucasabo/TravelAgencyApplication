@@ -1,0 +1,26 @@
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Tema1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.Properties.Resources.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Tema1.View.FirstPage.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Tema1.View.LogInPage.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Tema1.View.MainEmployeePage.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Tema1.View.MainManagerPage.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.exe
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.pdb
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\bin\Debug\Persoane.exe.config
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\bin\Debug\Persoane.exe
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\bin\Debug\Persoane.pdb
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\bin\Debug\Persoane.exe.config
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\bin\Debug\Persoane.exe
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\bin\Debug\Persoane.pdb
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Tema1.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Persoane.Properties.Resources.resources
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Tema1.View.FirstPage.resources
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Tema1.View.LogInPage.resources
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Tema1.View.MainEmployeePage.resources
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Tema1.View.MainManagerPage.resources
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Persoane.exe
+C:\Users\Raluca\Desktop\Tema1_SaboRalucaDiana\PROBLEMA23_AGENTIE\Proiect tema1\Persoane\Persoane\obj\Debug\Persoane.pdb

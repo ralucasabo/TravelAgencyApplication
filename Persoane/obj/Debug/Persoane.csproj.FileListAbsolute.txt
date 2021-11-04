@@ -1,0 +1,29 @@
+C:\Users\Anca\source\repos\Persoane\Persoane\bin\Debug\Persoane.exe.config
+C:\Users\Anca\source\repos\Persoane\Persoane\bin\Debug\Persoane.exe
+C:\Users\Anca\source\repos\Persoane\Persoane\bin\Debug\Persoane.pdb
+C:\Users\Anca\source\repos\Persoane\Persoane\obj\Debug\Persoane.csprojAssemblyReference.cache
+C:\Users\Anca\source\repos\Persoane\Persoane\obj\Debug\Persoane.csproj.CoreCompileInputs.cache
+C:\Users\Anca\source\repos\Persoane\Persoane\obj\Debug\Persoane.exe
+C:\Users\Anca\source\repos\Persoane\Persoane\obj\Debug\Persoane.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\Proiectare Software\Grupa CSC\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.Properties.Resources.resources
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\Proiectare Software\Grupa CSC\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.csproj.GenerateResource.cache
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\Proiectare Software\Grupa CSC\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.csproj.CoreCompileInputs.cache
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\Proiectare Software\Grupa CSC\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\Proiectare Software\Grupa CSC\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\Proiectare Software\Grupa CSC\MVC_PERSOANE\Persoane\Persoane\bin\Debug\Persoane.exe.config
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\Proiectare Software\Grupa CSC\MVC_PERSOANE\Persoane\Persoane\bin\Debug\Persoane.exe
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\Proiectare Software\Grupa CSC\MVC_PERSOANE\Persoane\Persoane\bin\Debug\Persoane.pdb
+E:\ACTIVITATE DIDACTICA\CURSURI\2020-2021\Semestrul 2\Proiectare Software\Grupa CSC\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.View.VPersoane.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.Properties.Resources.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.exe
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.pdb
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\bin\Debug\Persoane.exe.config
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\bin\Debug\Persoane.exe
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\bin\Debug\Persoane.pdb
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.View.LogInPage.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.View.MainEmployeePage.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.View.MainManagerPage.resources
+C:\Users\user\Desktop\MVC_PERSOANE\Persoane\Persoane\obj\Debug\Persoane.View.FirstPage.resources

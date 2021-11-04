@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<persoane>
+  <persoana>
+    <nume>POP IOANA</nume>
+    <cnp>201093798633</cnp>
+    <varsta>30</varsta>
+  </persoana>
+  <persoana>
+    <nume>POPESCU VLAD</nume>
+    <cnp>1546547</cnp>
+    <varsta>20</varsta>
+  </persoana>
+  <persoana>
+    <nume>LOLA VASILE</nume>
+    <cnp>154654732</cnp>
+    <varsta>50</varsta>
+  </persoana>
+  <persoana>
+    <nume>GAL MIHAI</nume>
+    <cnp>175547785</cnp>
+    <varsta>30</varsta>
+  </persoana>
+  <persoana>
+    <nume>VASILESCU DANA</nume>
+    <cnp>21217345678</cnp>
+    <varsta>20</varsta>
+  </persoana>
+</persoane>

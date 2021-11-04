@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<flights>
+  <flight>
+    <FlightId>1</FlightId>
+    <Airport>viena</Airport>
+    <Departure>roma</Departure>
+    <Destination>madrid</Destination>
+    <Time>2</Time>
+    <Price>123</Price>
+    <AvailableSeats>12</AvailableSeats>
+    <Plane>1</Plane>
+  </flight>
+  <flight>
+    <FlightId>2</FlightId>
+    <Airport>Cluj"Avram Iancu"InternationalAirport</Airport>
+    <Departure>Cluj-Napoca</Departure>
+    <Destination>Paris</Destination>
+    <Time>2</Time>
+    <Price>125</Price>
+    <AvailableSeats>90</AvailableSeats>
+    <Plane>434</Plane>
+  </flight>
+  <flight>
+    <FlightId>3</FlightId>
+    <Airport>Suceava"tefan cel MareInternationalAirport</Airport>
+    <Departure>Suceava</Departure>
+    <Destination>Budapesta</Destination>
+    <Time>1</Time>
+    <Price>49</Price>
+    <AvailableSeats>23</AvailableSeats>
+    <Plane>890</Plane>
+  </flight>
+  <flight>
+    <FlightId>4</FlightId>
+    <Airport>CraiovaAirport</Airport>
+    <Departure>Craiova</Departure>
+    <Destination>Viena</Destination>
+    <Time>1</Time>
+    <Price>67</Price>
+    <AvailableSeats>101</AvailableSeats>
+    <Plane>123</Plane>
+  </flight>
+  <flight>
+    <FlightId>5</FlightId>
+    <Airport>Bucharest"Henri Coand"InternationalAirport </Airport>
+    <Departure>Bucuresti</Departure>
+    <Destination>Roma</Destination>
+    <Time>3</Time>
+    <Price>125</Price>
+    <AvailableSeats>9</AvailableSeats>
+    <Plane>221</Plane>
+  </flight>
+</flights>

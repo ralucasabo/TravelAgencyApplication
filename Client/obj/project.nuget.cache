@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "XcuGuqXuVPY+45syU58nK2aldzFTr+GUWOsIJEALH50JtQwKkG7Qp35yQQxwpFX6dH0+FfS8kJ67BIYAP/BgrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raluca\\Desktop\\personal\\Proiect_SaboRalucaDiana\\Tema 3\\Persoane\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.0\\microsoft.extensions.configuration.fileextensions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.0\\microsoft.extensions.configuration.json.3.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.0\\microsoft.extensions.configuration.usersecrets.3.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.0\\microsoft.extensions.fileproviders.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.0\\microsoft.extensions.fileproviders.physical.3.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.0\\microsoft.extensions.filesystemglobbing.3.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\Raluca\\.nuget\\packages\\simpletcp\\1.0.24\\simpletcp.1.0.24.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SimpleTCP 1.0.24' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "SimpleTCP",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

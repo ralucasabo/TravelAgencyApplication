@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tickets>
+  <ticket>
+    <TicketId>10</TicketId>
+    <FlightId>3</FlightId>
+    <TravelerId>2010937986334</TravelerId>
+  </ticket>
+  <ticket>
+    <TicketId>20</TicketId>
+    <FlightId>2</FlightId>
+    <TravelerId>5120710430062</TravelerId>
+  </ticket>
+  <ticket>
+    <TicketId>30</TicketId>
+    <FlightId>5</FlightId>
+    <TravelerId>1410408110020</TravelerId>
+  </ticket>
+  <ticket>
+    <TicketId>40</TicketId>
+    <FlightId>1</FlightId>
+    <TravelerId>2170720230064</TravelerId>
+  </ticket>
+  <ticket>
+    <TicketId>50</TicketId>
+    <FlightId>4</FlightId>
+    <TravelerId>2820401080066</TravelerId>
+  </ticket>
+  <ticket>
+    <TicketId>60</TicketId>
+    <FlightId>55</FlightId>
+    <TravelerId>55555</TravelerId>
+  </ticket>
+</tickets>

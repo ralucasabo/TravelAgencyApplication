@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<managers>
+  <manager>
+    <Name>Tom Marian</Name>
+    <Username>mariantom</Username>
+    <Password>123marian</Password>
+  </manager>
+  <manager>
+    <Name>Lup Daniel</Name>
+    <Username>daniellup</Username>
+    <Password>123daniel</Password>
+  </manager>
+  <manager>
+    <Name>Sechel Geanina</Name>
+    <Username>geaninasec</Username>
+    <Password>123geanina</Password>
+  </manager>
+  <manager>
+    <Name>Zav Miriam</Name>
+    <Username>miriamzav</Username>
+    <Password>123miriam</Password>
+  </manager>
+  <manager>
+    <Name>Moga Mihai</Name>
+    <Username>mihaimog</Username>
+    <Password>123mihai</Password>
+  </manager>
+</managers>

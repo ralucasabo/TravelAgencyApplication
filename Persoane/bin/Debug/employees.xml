@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employees>
+  <employee>
+    <Name>jjjjj</Name>
+    <Username>lorevir</Username>
+    <Password>123lore</Password>
+  </employee>
+  <employee>
+    <Name>Hir George</Name>
+    <Username>georgehir</Username>
+    <Password>123george</Password>
+  </employee>
+  <employee>
+    <Name>Dan Rares</Name>
+    <Username>raresdan</Username>
+    <Password>123rares</Password>
+  </employee>
+  <employee>
+    <Name>Baron Andrei</Name>
+    <Username>andreibar</Username>
+    <Password>123andrei</Password>
+  </employee>
+  <employee>
+    <Name>Matei Ana</Name>
+    <Username>anamat</Username>
+    <Password>123ana</Password>
+  </employee>
+</employees>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<travelers>
+  <traveler>
+    <Name>Saracut Maria</Name>
+    <CNP>2010937986334</CNP>
+  </traveler>
+  <traveler>
+    <Name>Pop Vladimir</Name>
+    <CNP>5120710430062</CNP>
+  </traveler>
+  <traveler>
+    <Name>Muntean Rares</Name>
+    <CNP>1410408110020</CNP>
+  </traveler>
+  <traveler>
+    <Name>Rosu Alina</Name>
+    <CNP>2170720230064</CNP>
+  </traveler>
+  <traveler>
+    <Name>Muresan Dana</Name>
+    <CNP>2820401080066</CNP>
+  </traveler>
+</travelers>
